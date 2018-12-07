@@ -7,7 +7,7 @@
  Discription : A scrabble game which calculates score depending on each letter.
  
  */
-/*
+
 #include <stdio.h>
 #include <ctype.h>
 
@@ -59,4 +59,4 @@ int main(void)
             }
     }
 }
- */
+ 
