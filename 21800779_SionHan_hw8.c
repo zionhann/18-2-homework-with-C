@@ -5,7 +5,7 @@
  Name : Sion Han
  Discription: A programme processing grades with 5 options.
  */
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -260,4 +260,3 @@ void descOrder(float floAry[][5], char chAry[])
     }
     record(score, grade);
 }
-*/
