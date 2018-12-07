@@ -7,7 +7,7 @@
  Discription : A random math quiz programme with three types of different levels.
  
  */
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -138,4 +138,4 @@ int keepgoing(void)
     if(YesorNo=='y'|| YesorNo=='Y') return ON;
     else return OFF;
 }
-*/
+
