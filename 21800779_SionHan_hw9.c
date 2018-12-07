@@ -5,7 +5,7 @@
  Name : Sion Han
  Discription: A programme processing 50 random numbers with 5 options.
  */
-/*
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -216,4 +216,3 @@ void count(int sn[], int *zero, int *onetoFive, int *sixtoTen)
     for(int i=6;i<=10;i++)
         *sixtoTen+=sn[i];
 }
-*/
