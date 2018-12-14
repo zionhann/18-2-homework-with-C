@@ -1,4 +1,4 @@
-# C-at-Handong
+# C at Handong Global University
 C Programming Assignments in 2018
 
 I'm a newbie for this website.
