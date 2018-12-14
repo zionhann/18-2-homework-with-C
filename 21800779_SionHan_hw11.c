@@ -5,7 +5,6 @@
  Name : Sion Han
  Discription: A programme managing at most 20 members with 5 options.
  */
-/*
 #include <stdio.h>
 #include <stdlib.h> //srand()
 #include <time.h> //time()
@@ -314,4 +313,3 @@ void capName(MEMBERS mem[g_count])
             mem[g_count].name[i+1]=toupper(mem[g_count].name[i+1]);
         }
 }
-*/
